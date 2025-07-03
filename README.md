@@ -8,3 +8,9 @@ technology works with a little security in the form of AES encryption
 Обмен ключами (ECDH)
 Подпись сообщений (HMAC-SHA256)
 Проверка целостности и подлинности
+
+пример чата Peer-to-Peer
+
+C базовым методом шифрование
+Анти митм 
+и Хэшем
