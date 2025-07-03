@@ -14,3 +14,6 @@ technology works with a little security in the form of AES encryption
 C базовым методом шифрование
 Анти митм 
 и Хэшем
+
+
+pip install pycryptodome ecdsa
